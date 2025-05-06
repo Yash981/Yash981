@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### I'm Yashwanth, a Full Stack Engineer
+
+![Profile views](https://komarev.com/ghpvc/?username=Yash981&color=blue)
 <!--
 **Yash981/Yash981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
